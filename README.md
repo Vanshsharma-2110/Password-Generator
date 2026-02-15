@@ -1,13 +1,18 @@
-Password Generator
+🔐 Password Generator
 
-A responsive Password Generator web application built using HTML, CSS, and JavaScript. It allows users to generate secure random passwords based on selected criteria such as length, uppercase letters, lowercase letters, numbers, and symbols.
+A responsive Password Generator web application built using HTML, CSS, and JavaScript.
+It allows users to generate secure random passwords based on selected criteria such as length, uppercase letters, lowercase letters, numbers, and symbols.
 
-Live Demo
+🌐 Live Demo
 
-https://vanshsharma-2110.github.io/Password-Generator/
-<img width="1537" height="919" alt="Screenshot 2026-02-15 193823" src="https://github.com/user-attachments/assets/fb838fc0-d152-4d0c-96fa-7ad8ea59056a" />
+👉 https://vanshsharma-2110.github.io/Password-Generator/
 
-Features
+📸 Preview
+
+![Password Generator Preview](<img width="1537" height="919" alt="Screenshot 2026-02-15 193823" src="https://github.com/user-attachments/assets/3c3aea65-bfdf-4879-9af4-398cb75d6bc8" />)
+
+
+✨ Features
 
 Generate random secure passwords
 
@@ -27,27 +32,27 @@ Password strength indicator
 
 Copy password to clipboard
 
-Responsive layout (works on desktop and mobile)
+Responsive design for mobile and desktop
 
-Technologies Used
+🛠️ Technologies Used
 
-HTML5
+HTML5 – Structure
 
-CSS3 (Flexbox, responsive design)
+CSS3 – Styling, Flexbox, responsiveness
 
-JavaScript (DOM manipulation, events, random generation)
+JavaScript – DOM manipulation, event handling, random password generation
 
-How It Works
+⚙️ How It Works
 
-Select the desired password length using the slider.
+Select the password length using the slider.
 
 Choose the character types to include.
 
 Click Generate Password.
 
-Copy the generated password using the copy button.
+Copy the password using the Copy button.
 
-What I Learned
+📚 What I Learned
 
 While building this project, I practiced:
 
@@ -55,24 +60,23 @@ DOM manipulation
 
 Event listeners and form handling
 
+Working with sliders and checkboxes
+
 Generating random values in JavaScript
 
-Building responsive layouts
+Responsive UI design using Flexbox
 
-Improving UI and user experience
+Improving user experience with visual feedback
 
-Project Structure
-Password-Generator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+🚀 Future Improvements
 
-Future Improvements
+Strength meter bar visualization
 
-Strength bar visualization
+Option to exclude similar characters
 
-Option to avoid similar characters
+Dark/Light theme toggle
 
-Dark/light theme toggle
+👨‍💻 Author
+
+Vansh Sharma
+Aspiring Web Developer
