@@ -9,7 +9,7 @@ It allows users to generate secure random passwords based on selected criteria s
 
 📸 Preview
 
-![Password Generator Preview](<img width="1537" height="919" alt="Screenshot 2026-02-15 193823" src="https://github.com/user-attachments/assets/3c3aea65-bfdf-4879-9af4-398cb75d6bc8" />)
+<img width="1537" height="919" alt="Screenshot 2026-02-15 193823" src="https://github.com/user-attachments/assets/3c3aea65-bfdf-4879-9af4-398cb75d6bc8" />
 
 
 ✨ Features
