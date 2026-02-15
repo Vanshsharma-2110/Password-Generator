@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="prac3.css">
+</head>
+
+<body>
+    <div class="container">
+        <form class="main">
+            <h2>Password Generator</h2>
+            <div class="parea">
+                <input type="text" id="password" readonly>
+                <button id="copybtn">Copy</button>
+            </div>
+            <br>
+            <div class="filters">
+
+                <p>
+                    Length: <span id="lengthValue">12</span>
+                </p>
+                <input type="range" id="lengthSlider" min="4" max="20" value="12">
+                <br><br>
+                <label><input type="checkbox" id="uppercase"> include Upper-Case</label>
+                <br>
+                <label><input type="checkbox" id="lowercase"> include Lower-Case</label>
+                <br>
+                <label><input type="checkbox" id="numbers"> include Numbers</label>
+                <br>
+                <label><input type="checkbox" id="symbols"> include Symbols</label>
+                <br>
+                <br>
+                <button id="generatebtn">Generate Password</button>
+                <p id="strength">Strength: </p>
+            </div>
+        </form>
+    </div>
+    <script src="prac3.js"></script>
+</body>
+
+</html>
